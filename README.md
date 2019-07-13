@@ -13,4 +13,4 @@ Kegunaan JSON pada REST API adalah untuk transfer data atau statte ke REST serve
 * No 6 array object di push ke array dan mereplacenya ke string dengan menambahkan regular expression "," dan saya menggunakan percabangan Switch-Case karena kondisi dinyatakan dengan String(SUM,MUL,SUB,DIV) 
 * No 7 menggunakan bahasa pemrograman PHP,JS dan database menggunakan MYSQL
 * No 7 Mengunakan Online Bootstrap 4
-* No 7 Belum Sempurna Karena pemograman PHP saya tidak terlalu dalam
+* No 7 Belum Sempurna 
